@@ -1,0 +1,2 @@
+# DBMS
+sql queries
